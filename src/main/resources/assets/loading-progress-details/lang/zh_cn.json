@@ -1,0 +1,8 @@
+{
+	"loading-progress-details.line.stage": "%1$s：%2$s%%（%3$s）",
+	"loading-progress-details.line.tasks": "已准备 %1$s/%2$s · 已应用 %3$s/%4$s",
+	"loading-progress-details.line.waiting": "等待：%s",
+	"loading-progress-details.stage.preparing": "正在准备资源",
+	"loading-progress-details.stage.applying": "正在应用资源",
+	"loading-progress-details.stage.done": "重载完成"
+}

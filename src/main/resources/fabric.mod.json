@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "loading-progress-details",
+	"version": "${version}",
+	"name": "Loading Progress Details",
+	"description": "Displays detailed resource reload progress (stage, task counts, pending reloaders and elapsed time) under the vanilla loading progress bar.",
+	"authors": [
+		"ZCode"
+	],
+	"contact": {},
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dev.loadprogress.details.LoadingProgressDetails"
+		]
+	},
+	"mixins": [
+		"loading-progress-details.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "=1.21.11",
+		"java": ">=21"
+	}
+}

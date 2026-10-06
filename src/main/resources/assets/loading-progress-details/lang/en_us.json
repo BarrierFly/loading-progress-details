@@ -1,0 +1,8 @@
+{
+	"loading-progress-details.line.stage": "%s: %s%% (%s)",
+	"loading-progress-details.line.tasks": "Prepared %s/%s · Applied %s/%s",
+	"loading-progress-details.line.waiting": "Waiting for: %s",
+	"loading-progress-details.stage.preparing": "Preparing resources",
+	"loading-progress-details.stage.applying": "Applying resources",
+	"loading-progress-details.stage.done": "Reload complete"
+}
